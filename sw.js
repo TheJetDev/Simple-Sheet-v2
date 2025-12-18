@@ -1,12 +1,13 @@
 // sw.js
 
-const CACHE_NAME = 'simple-calc-app-v6'; // バージョンを更新
+// キャッシュ名を更新（v7）
+const CACHE_NAME = 'simple-calc-app-v7';
 
+// 現在のファイル名に完全に一致させました
 const urlsToCache = [
   './',
   'index.html',
   'manifest.json',
-  // 今回のアイコンファイル名に合わせて修正
   'apple-touch-icon.png',
   'favicon-96x96.png',
   'web-app-manifest-192x192.png',
