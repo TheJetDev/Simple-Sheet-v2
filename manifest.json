@@ -1,8 +1,8 @@
 {
-  "name": "Simple Sheet - Calc & Note",
-  "short_name": "SimpleSheet",
-  "description": "A minimalist calculator with integrated note-taking. Easily save, load, and organize your calculations in one place.",
-  "id": "/Simple-Sheet-v2/",
+  "name": "Simple Sheet Pro - Calc & Note",
+  "short_name": "SimpleSheet Pro",
+  "description": "Professional minimalist calculator with integrated note-taking. Unlimited saves and structured calculations.",
+  "id": "/Simple-Sheet-Pro/",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -19,11 +19,6 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
-    },
-    {
-      "src": "apple-touch-icon.png",
-      "sizes": "180x180",
-      "type": "image/png"
     }
   ]
 }
